@@ -1,0 +1,24 @@
+[1mdiff --git a/demo.java b/demo.java[m
+[1mindex 8fcdc49..d3e1fa1 100644[m
+[1m--- a/demo.java[m
+[1m+++ b/demo.java[m
+[36m@@ -2,6 +2,6 @@[m [mpackage gitDemo;[m
+ [m
+ public class demo {[m
+   public static void main(String[] args) {[m
+[31m-	System.out.println("hi this is sachin yadav sasasa");[m
+[32m+[m	[32mSystem.out.println("hi this is sachin yadav");[m
+ }[m
+ }[m
+[1mdiff --git a/demo1.java b/demo1.java[m
+[1mindex d3e1fa1..ab08247 100644[m
+[1m--- a/demo1.java[m
+[1m+++ b/demo1.java[m
+[36m@@ -2,6 +2,6 @@[m [mpackage gitDemo;[m
+ [m
+ public class demo {[m
+   public static void main(String[] args) {[m
+[31m-	System.out.println("hi this is sachin yadav");[m
+[32m+[m	[32mSystem.out.println("hi this done is sachin yadav");[m
+ }[m
+ }[m
