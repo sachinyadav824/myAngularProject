@@ -8,7 +8,7 @@
   <name>AngularJS Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
-    <dependency>
+    <dependency>dssds
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>3.8.1</version>
